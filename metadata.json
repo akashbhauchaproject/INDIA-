@@ -1,0 +1,6 @@
+{
+  "name": "VaultTasks",
+  "description": "High-fidelity, privacy-first task management application with Obsidian Flux design, zero-knowledge encryption controls, biometrics, and AI task breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
